@@ -1,0 +1,13 @@
+Heather Silveira
+ID: t423f484
+CS480
+HW 5 - Movie Rental Program
+----------------------------------
+
+My program compiles and executes on the Linux servers.
+
+Please put all the following files in one folder:
+Movie.hpp Movie.cpp Customer.hpp Customer.cpp main.cpp makefile
+
+In the terminal, navigate to the folder and type:
+make hw05
